@@ -1,0 +1,569 @@
+; Core Asterisk Sounds in German (Deutsch)
+; Generated using Piper TTS (de_DE-thorsten-medium)
+; Sample rate: 22050 Hz, mono, 16-bit PCM WAV
+; Total entries: 564
+;
+activated: Aktiviert.
+added: Hinzugefügt.
+agent-alreadyon: Dieser Agent ist bereits angemeldet. Bitte geben Sie Ihre Agentennummer ein und drücken Sie die Raute-Taste.
+agent-incorrect: Anmeldung fehlgeschlagen. Bitte geben Sie Ihre Agentennummer ein und drücken Sie die Raute-Taste.
+agent-loggedoff: Der Agent wurde abgemeldet.
+agent-loginok: Der Agent ist angemeldet.
+agent-newlocation: Bitte geben Sie eine neue Nebenstelle ein und drücken Sie die Raute-Taste.
+agent-pass: Bitte geben Sie Ihr Passwort ein und drücken Sie die Raute-Taste.
+agent-user: Agentenanmeldung. Bitte geben Sie Ihre Agentennummer ein und drücken Sie die Raute-Taste.
+all-circuits-busy-now: Zurzeit sind alle Leitungen belegt.
+astcc-followed-by-pound: Anschließend drücken Sie die Raute-Taste.
+at-tone-time-exactly: Beim Tonzeichen ist es genau...
+auth-incorrect: Falsches Passwort. Bitte geben Sie Ihr Passwort ein und drücken Sie die Raute-Taste.
+auth-thankyou: Vielen Dank.
+basic-pbx-ivr-main: Vielen Dank für Ihren Anruf. Wenn Sie die Nebenstelle Ihres Gesprächspartners kennen, können Sie diese jederzeit wählen. Für den Vertrieb drücken Sie die Eins. Für den Kundenservice drücken Sie die Zwei. Für die Buchhaltung drücken Sie die Drei. Für ein Mitarbeiterverzeichnis drücken Sie die Vier. Für die Vermittlung drücken Sie die Null.
+beep: Piep.
+beeperr: Fehlerton.
+call-forwarding: Rufweiterleitung.
+call-fwd-no-ans: Rufweiterleitung bei Nichtmelden.
+call-fwd-on-busy: Rufweiterleitung bei Besetzt.
+call-fwd-unconditional: Sofortige Rufweiterleitung.
+call-waiting: Anklopfen.
+calling: Anruf läuft.
+cancelled: Abgebrochen.
+cannot-complete-as-dialed: Ihr Anruf kann mit der gewählten Nummer nicht zustande kommen.
+check-number-dial-again: Bitte überprüfen Sie die Nummer und wählen Sie erneut.
+conf-adminmenu-162: Drücken Sie die Eins, um sich selbst stumm- oder lautzuschalten, die Zwei, um die Konferenz zu sperren oder zu entsperren, die Drei, um den letzten Teilnehmer zu entfernen, die Vier oder Sechs, um die Konferenzlautstärke zu verringern oder zu erhöhen, die Fünf, um die Konferenz zu verlängern, die Sieben oder Neun, um Ihre eigene Lautstärke zu verringern oder zu erhöhen, oder die Acht, um zu beenden.
+conf-adminmenu-18: Drücken Sie die Eins, um sich selbst stumm- oder lautzuschalten, die Zwei, um die Konferenz zu sperren oder zu entsperren, die Drei, um den letzten Teilnehmer zu entfernen, die Vier oder Sechs, um die Konferenzlautstärke zu verringern oder zu erhöhen, die Fünf, um die Konferenz zu verlängern, die Sieben oder Neun, um Ihre eigene Lautstärke zu verringern oder zu erhöhen, oder die Acht für weitere Optionen.
+conf-adminmenu-menu8: Drücken Sie die Eins, um die aktuellen Konferenzteilnehmer aufzulisten, die Zwei, um alle Nicht-Administratoren zu entfernen, die Drei, um alle Nicht-Administratoren stumm- oder lautzuschalten, die Vier, um diese Konferenz aufzuzeichnen, oder die Acht, um dieses Menü zu verlassen und in die Konferenz zurückzukehren.
+conf-adminmenu: Drücken Sie die Eins, um sich selbst stumm- oder lautzuschalten, die Zwei, um die Konferenz zu sperren oder zu entsperren, die Drei, um den letzten Teilnehmer zu entfernen, die Vier oder Sechs, um die Konferenzlautstärke zu verringern oder zu erhöhen, die Sieben oder Neun, um Ihre eigene Lautstärke zu verringern oder zu erhöhen, oder die Acht, um zu beenden.
+conf-enteringno: Sie betreten die Konferenz mit der Nummer
+conf-errormenu: Ungültige Auswahl.
+conf-extended: Die Konferenz wurde verlängert.
+conf-full: Diese Konferenz ist voll besetzt.
+conf-getchannel: Bitte geben Sie die Kanalnummer ein und drücken Sie die Raute-Taste.
+conf-getconfno: Bitte geben Sie Ihre Konferenznummer ein und drücken Sie die Raute-Taste.
+conf-getpin: Bitte geben Sie die PIN-Nummer der Konferenz ein.
+conf-hasjoin: ist nun in der Konferenz.
+conf-hasleft: hat die Konferenz verlassen.
+conf-invalid: Das ist keine gültige Konferenznummer. Bitte versuchen Sie es erneut.
+conf-invalidpin: Diese PIN-Nummer ist für diese Konferenz ungültig.
+conf-kicked: Sie wurden aus dieser Konferenz entfernt.
+conf-leaderhasleft: Der Leiter hat die Konferenz verlassen.
+conf-locked: Diese Konferenz ist gesperrt.
+conf-lockednow: Die Konferenz ist nun gesperrt.
+conf-muted: Sie sind nun stummgeschaltet.
+conf-noempty: Es sind derzeit keine leeren Konferenzen verfügbar.
+conf-nonextended: Die Konferenz kann nicht verlängert werden.
+conf-now-muted: Die Konferenz ist nun stummgeschaltet.
+conf-now-recording: Die Konferenz wird nun aufgezeichnet.
+conf-now-unmuted: Die Konferenz ist nun nicht mehr stummgeschaltet.
+conf-onlyone: Es befindet sich derzeit ein weiterer Teilnehmer in der Konferenz.
+conf-onlyperson: Sie sind derzeit der einzige Teilnehmer in dieser Konferenz.
+conf-otherinparty: weitere Teilnehmer in der Konferenz.
+conf-placeintoconf: Sie werden nun in die Konferenz aufgenommen.
+conf-roll-callcomplete: Die Wiedergabe der Teilnehmerliste ist abgeschlossen.
+conf-thereare: Es befinden sich derzeit
+conf-unlockednow: Die Konferenz ist nun entsperrt.
+conf-unmuted: Sie sind nun nicht mehr stummgeschaltet.
+conf-usermenu-162: Drücken Sie die Eins, um sich selbst stumm- oder lautzuschalten, die Vier oder Sechs, um die Konferenzlautstärke zu verringern oder zu erhöhen, die Fünf, um die Konferenz zu verlängern, die Sieben oder Neun, um Ihre eigene Lautstärke zu verringern oder zu erhöhen, oder die Acht, um dieses Menü zu verlassen und in die Konferenz zurückzukehren.
+conf-usermenu: Drücken Sie die Eins, um sich selbst stumm- oder lautzuschalten, die Vier oder Sechs, um die Konferenzlautstärke zu verringern oder zu erhöhen, die Sieben oder Neun, um Ihre eigene Lautstärke zu verringern oder zu erhöhen, oder die Acht, um zu beenden.
+conf-userswilljoin: Teilnehmer werden der Konferenz beitreten.
+conf-userwilljoin: Teilnehmer wird der Konferenz beitreten.
+conf-waitforleader: Die Konferenz beginnt, sobald der Leiter eintrifft.
+confbridge-begin-glorious-a: Die Konferenz beginnt, sobald unser ehrwürdiger Leiter eintrifft.
+confbridge-begin-glorious-b: Die Konferenz beginnt, sobald unser ehrwürdiger Leiter eintrifft.
+confbridge-begin-glorious-c: Die Konferenz beginnt, sobald unser ehrwürdiger Leiter eintrifft.
+confbridge-begin-leader: Die Konferenz beginnt, sobald der Leiter eintrifft.
+confbridge-binaural-off: 3D-Audio deaktiviert.
+confbridge-binaural-on: 3D-Audio aktiviert.
+confbridge-conf-begin: Die Konferenz beginnt nun.
+confbridge-conf-end: Die Konferenz ist beendet.
+confbridge-dec-list-vol-in: Um die Lautstärke der anderen Teilnehmer zu verringern...
+confbridge-dec-list-vol-out: ...um die Lautstärke der anderen Teilnehmer zu verringern.
+confbridge-dec-talk-vol-in: Um Ihre Sprechlautstärke zu den anderen Teilnehmern zu verringern...
+confbridge-dec-talk-vol-out: ...um Ihre Sprechlautstärke zu den anderen Teilnehmern zu verringern.
+confbridge-has-joined: ...ist der Konferenz beigetreten.
+confbridge-has-left: ...hat die Konferenz verlassen.
+confbridge-inc-list-vol-in: Um die Lautstärke der anderen Teilnehmer zu erhöhen...
+confbridge-inc-list-vol-out: ...um die Lautstärke der anderen Teilnehmer zu erhöhen.
+confbridge-inc-talk-vol-in: Um Ihre Sprechlautstärke zu den anderen Teilnehmern zu erhöhen...
+confbridge-inc-talk-vol-out: ...um Ihre Sprechlautstärke zu den anderen Teilnehmern zu erhöhen.
+confbridge-invalid: Sie haben eine ungültige Option gewählt.
+confbridge-leave-in: Um die Konferenz zu verlassen...
+confbridge-leave-out: ...um die Konferenz zu verlassen.
+confbridge-lock-extended: ...um die Konferenz zu sperren oder zu entsperren. Wenn die Konferenz gesperrt ist, können nur Konferenzadministratoren beitreten.
+confbridge-lock-in: Um die Konferenz zu sperren oder zu entsperren...
+confbridge-lock-no-join: Die Konferenz ist derzeit gesperrt und kann nicht betreten werden.
+confbridge-lock-out: ...um die Konferenz zu sperren oder zu entsperren.
+confbridge-locked: Die Konferenz ist nun gesperrt.
+confbridge-menu-exit-in: Um das Menü zu verlassen...
+confbridge-menue-exit-out: ...um das Menü zu verlassen.
+confbridge-mute-extended: ...um sich selbst stumm- oder lautzuschalten. Wenn Sie stummgeschaltet sind, können Sie keine Audiodaten an andere Teilnehmer senden, hören aber weiterhin die anderen nicht stummgeschalteten Teilnehmer.
+confbridge-mute-in: Um sich selbst stumm- oder lautzuschalten...
+confbridge-mute-out: ...um sich selbst stumm- oder lautzuschalten.
+confbridge-muted: Sie sind nun stummgeschaltet.
+confbridge-only-one: Es befindet sich derzeit ein weiterer Teilnehmer in der Konferenz.
+confbridge-only-participant: Sie sind derzeit der einzige Teilnehmer in der Konferenz.
+confbridge-participants: ...Teilnehmer in der Konferenz.
+confbridge-pin-bad: Sie haben zu viele ungültige persönliche Identifikationsnummern eingegeben.
+confbridge-pin: Bitte geben Sie Ihre persönliche Identifikationsnummer ein, gefolgt von der Raute-Taste.
+confbridge-remove-last-in: Um den zuletzt beigetretenen Teilnehmer zu entfernen...
+confbridge-remove-last-out: ...um den zuletzt beigetretenen Teilnehmer zu entfernen.
+confbridge-removed: Sie wurden aus der Konferenz entfernt.
+confbridge-rest-list-vol-in: Um die Konferenzlautstärke auf den Standardwert zurückzusetzen...
+confbridge-rest-list-vol-out: ...um die Konferenzlautstärke auf den Standardwert zurückzusetzen.
+confbridge-rest-talk-vol-in: Um Ihre Sprechlautstärke auf den Standardwert zurückzusetzen...
+confbridge-rest-talk-vol-out: ...um Ihre Sprechlautstärke auf den Standardwert zurückzusetzen.
+confbridge-there-are: Es befinden sich derzeit...
+confbridge-unlocked: Die Konferenz ist nun entsperrt.
+confbridge-unmuted: Sie sind nun nicht mehr stummgeschaltet.
+de-activated: Deaktiviert.
+demo-abouttotry: Ich werde nun versuchen, eine Inter-Asterisk-Exchange-Verbindung zu einem Demonstrationsserver bei Digium aufzubauen. Damit dies funktioniert, müssen Sie bereits mit dem Internet verbunden sein. Bitte warten Sie einen Moment.
+demo-congrats: Herzlichen Glückwunsch. Sie haben Asterisk, das Open-Source-Telefonsystem, erfolgreich installiert und gestartet. Sie haben außerdem eine Reihe von Beispielklängen und Konfigurationsdateien installiert, die Ihnen den Einstieg erleichtern. Wie bei einer normalen Telefonanlage navigieren Sie durch diese Demonstration, indem Sie Ziffern wählen.
+demo-echodone: Der Echotest ist abgeschlossen.
+demo-echotest: Sie betreten nun einen Echotest. Alles, was Sie sagen, wird Ihnen sofort wiedergegeben. Dieser Test soll Ihnen ein Gefühl für die Latenz zwischen Ihnen und der Maschine vermitteln, auf der die Echotest-Anwendung läuft. Sie können den Test durch Auflegen oder Drücken der Raute-Taste beenden.
+demo-enterkeywords: Bitte geben Sie ein oder mehrere Schlüsselwörter, getrennt durch Sternchen, ein und drücken Sie dann die Raute-Taste.
+demo-instruct: Wenn Sie weitere technische Informationen über Asterisk erhalten möchten, wählen Sie jetzt die Zwei. Wenn Sie die Voice-over-IP-Funktionen testen möchten, wählen Sie 500. Für einen Echotest wählen Sie 600. Drücken Sie die Raute-Taste, um die Verbindung zur Telefonanlage zu beenden.
+demo-moreinfo: Asterisk ist eine voll ausgestattete Open-Source-Telefonanlage und IVR-Plattform, die unter dem Linux-Betriebssystem läuft. Weitere Informationen finden Sie unter www.asterisk.org.
+demo-nogo: Leider konnte keine Verbindung zum Asterisk-Demonstrationsserver von Digium hergestellt werden. Hilfreiche Informationen zur Fehlersuche finden Sie auf der Asterisk-Konsole.
+demo-nomatch: Es tut mir leid, für diese Schlüsselwörter wurden keine Treffer gefunden.
+demo-thanks: Auf Wiederhören. Vielen Dank, dass Sie Asterisk, das Open-Source-Telefonsystem, ausprobiert haben.
+dictate/both_help: Drücken Sie das Sternchen, um die Pause umzuschalten, oder die Raute-Taste, um einen neuen Diktatdateinamen einzugeben.
+dictate/enter_filename: Geben Sie einen numerischen Diktatdateinamen ein, gefolgt von der Raute-Taste, oder nur die Raute-Taste, um zu beenden.
+dictate/forhelp: Drücken Sie die Null für Hilfe.
+dictate/pause: Pause.
+dictate/paused: Pausiert.
+dictate/play_help: Drücken Sie die Eins, um in den Aufnahmemodus zu wechseln, die Zwei für schnelle Wiedergabe, die Sieben, um zurückzuspringen, oder die Acht, um vorzuspringen.
+dictate/playback: Wiedergabe.
+dictate/playback_mode: Wiedergabemodus.
+dictate/record: Aufnehmen.
+dictate/record_help: Drücken Sie die Eins, um in den Wiedergabemodus zu wechseln, oder die Acht, um die Datei zu kürzen und neu zu beginnen.
+dictate/record_mode: Aufnahmemodus.
+dictate/truncating_audio: Audio wird gekürzt.
+digits/0: null
+digits/1: eins
+digits/10: zehn
+digits/11: elf
+digits/12: zwölf
+digits/13: dreizehn
+digits/14: vierzehn
+digits/15: fünfzehn
+digits/16: sechzehn
+digits/17: siebzehn
+digits/18: achtzehn
+digits/19: neunzehn
+digits/2: zwei
+digits/20: zwanzig
+digits/3: drei
+digits/30: dreißig
+digits/4: vier
+digits/40: vierzig
+digits/5: fünf
+digits/50: fünfzig
+digits/6: sechs
+digits/60: sechzig
+digits/7: sieben
+digits/70: siebzig
+digits/8: acht
+digits/80: achtzig
+digits/9: neun
+digits/90: neunzig
+digits/at: um
+digits/billion: Milliarde
+digits/day-0: Sonntag
+digits/day-1: Montag
+digits/day-2: Dienstag
+digits/day-3: Mittwoch
+digits/day-4: Donnerstag
+digits/day-5: Freitag
+digits/day-6: Samstag
+digits/day-6_2: Samstag
+digits/dollar: Dollar
+digits/h-1: erste
+digits/h-10: zehnte
+digits/h-11: elfte
+digits/h-12: zwölfte
+digits/h-13: dreizehnte
+digits/h-14: vierzehnte
+digits/h-15: fünfzehnte
+digits/h-16: sechzehnte
+digits/h-17: siebzehnte
+digits/h-18: achtzehnte
+digits/h-19: neunzehnte
+digits/h-2: zweite
+digits/h-20: zwanzigste
+digits/h-3: dritte
+digits/h-30: dreißigste
+digits/h-4: vierte
+digits/h-40: vierzigste
+digits/h-5: fünfte
+digits/h-50: fünfzigste
+digits/h-6: sechste
+digits/h-60: sechzigste
+digits/h-7: siebte
+digits/h-70: siebzigste
+digits/h-8: achte
+digits/h-80: achtzigste
+digits/h-9: neunte
+digits/h-90: neunzigste
+digits/h-billion: milliardste
+digits/h-hundred: hundertste
+digits/h-million: millionste
+digits/h-thousand: tausendste
+digits/hundred: hundert
+digits/minus: minus
+digits/mon-0: Januar
+digits/mon-1: Februar
+digits/mon-10: November
+digits/mon-11: Dezember
+digits/mon-2: März
+digits/mon-3: April
+digits/mon-4: Mai
+digits/mon-5: Juni
+digits/mon-6: Juli
+digits/mon-7: August
+digits/mon-8: September
+digits/mon-9: Oktober
+digits/oclock: Uhr
+digits/oh: null
+digits/pound: Raute
+digits/star: Sternchen
+digits/thousand: tausend
+digits/today: heute
+digits/tomorrow: morgen
+digits/yesterday: gestern
+dir-first: Buchstaben des Vornamens Ihres Gesprächspartners.
+dir-firstlast: ...Buchstaben des Vor- oder Nachnamens Ihres Gesprächspartners.
+dir-instr: Wenn dies die gesuchte Person ist, drücken Sie jetzt die Eins, andernfalls drücken Sie jetzt das Sternchen.
+dir-intro-fn: Willkommen im Verzeichnis. Bitte geben Sie die ersten drei Buchstaben des Vornamens Ihres Gesprächspartners über die Wähltastatur ein. Verwenden Sie die Sieben für Q und die Neun für Z.
+dir-intro: Willkommen im Verzeichnis. Bitte geben Sie die ersten drei Buchstaben des Nachnamens Ihres Gesprächspartners über die Wähltastatur ein. Verwenden Sie die Sieben für Q und die Neun für Z.
+dir-last: ...Buchstaben des Nachnamens Ihres Gesprächspartners.
+dir-multi1: Drücken Sie...
+dir-multi2: ...für...
+dir-multi3: ...Nebenstelle...
+dir-multi9: Drücken Sie die Neun für weitere Einträge.
+dir-nomatch: Keine Verzeichniseinträge entsprechen Ihrer Suche.
+dir-nomore: Es gibt keine weiteren passenden Einträge im Verzeichnis.
+dir-pls-enter: Bitte geben Sie die ersten...
+dir-usingkeypad: ...über die Wähltastatur. Verwenden Sie die Sieben für Q und die Neun für Z.
+dir-welcome: Willkommen im Verzeichnis.
+disabled: Deaktiviert.
+do-not-disturb: Bitte nicht stören.
+enabled: Aktiviert.
+enter-num-blacklist: Bitte geben Sie die Nummer ein, die auf die Sperrliste gesetzt werden soll.
+entr-num-rmv-blklist: Bitte geben Sie die Nummer ein, die von der Sperrliste entfernt werden soll.
+extension: Nebenstelle.
+feature-not-avail-line: Diese Funktion ist auf dieser Leitung nicht verfügbar.
+followme/call-from: Eingehender Anruf von
+followme/no-recording: Sie haben einen eingehenden Anruf.
+followme/options: Drücken Sie die Eins, um diesen Anruf anzunehmen, oder die Zwei, um ihn abzulehnen.
+followme/pls-hold-while-try: Bitte warten Sie, während ich versuche, die gewünschte Person zu erreichen.
+followme/sorry: Es tut mir leid, ich konnte die gewünschte Person nicht erreichen.
+followme/status: Die gewünschte Person ist nicht an ihrem Platz; ich werde versuchen, sie für Sie zu erreichen.
+for: Für.
+from-unknown-caller: Von einem unbekannten Anrufer.
+goodbye: Auf Wiederhören!
+hello-world: Hallo Welt.
+hello: Hallo.
+hours: Stunden
+if-correct-press: Wenn dies korrekt ist, drücken Sie...
+im-sorry: Es tut mir leid.
+info-about-last-call: Informationen über Ihren letzten Anruf.
+invalid: Es tut mir leid, das ist keine gültige Nebenstelle. Bitte versuchen Sie es erneut.
+is-in-use: Ist belegt.
+is-set-to: Ist eingestellt auf.
+is: Ist.
+letters/a: a
+letters/ascii123: geschweifte Klammer auf
+letters/ascii124: senkrechter Strich
+letters/ascii125: geschweifte Klammer zu
+letters/ascii126: Tilde
+letters/ascii34: Anführungszeichen
+letters/ascii36: Dollarzeichen
+letters/ascii37: Prozentzeichen
+letters/ascii38: Et-Zeichen
+letters/ascii39: Apostroph
+letters/ascii40: runde Klammer auf
+letters/ascii41: runde Klammer zu
+letters/ascii42: Sternchen
+letters/ascii44: Komma
+letters/ascii58: Doppelpunkt
+letters/ascii59: Semikolon
+letters/ascii60: kleiner als
+letters/ascii61: Gleichheitszeichen
+letters/ascii63: Fragezeichen
+letters/ascii91: eckige Klammer auf
+letters/ascii92: umgekehrter Schrägstrich
+letters/ascii93: eckige Klammer zu
+letters/ascii94: Zirkumflex
+letters/ascii94_2: Zirkumflex
+letters/ascii95: Unterstrich
+letters/ascii96: Akzent gravis
+letters/asterisk: Sternchen
+letters/at: at-Zeichen
+letters/b: b
+letters/c: c
+letters/d: d
+letters/dash: Bindestrich
+letters/dollar: Dollarzeichen
+letters/dot: Punkt
+letters/e: e
+letters/equals: Gleichheitszeichen
+letters/exclaimation-point: Ausrufezeichen
+letters/f: f
+letters/g: g
+letters/h: h
+letters/i: i
+letters/j: j
+letters/k: k
+letters/l: l
+letters/m: m
+letters/n: n
+letters/o: o
+letters/p: p
+letters/plus: Pluszeichen
+letters/q: q
+letters/r: r
+letters/s: s
+letters/slash: Schrägstrich
+letters/space: Leerzeichen
+letters/t: t
+letters/u: u
+letters/v: v
+letters/w: w
+letters/x: x
+letters/y: y
+letters/z: z
+location: Standort.
+location2: Standort.
+lowercase: Kleinbuchstabe.
+minute: Minute
+minutes: Minuten
+num-was-successfully: Die Nummer wurde erfolgreich...
+number-not-answering: Die Nummer antwortet nicht.
+number: Nummer.
+one-moment-please: Einen Moment bitte.
+pdx-invalid: Es tut mir leid, das ist keine gültige Nebenstelle. Bitte versuchen Sie es erneut.
+pdx-invalidpark: Es tut mir leid, an dieser Nebenstelle ist kein Anruf geparkt. Bitte versuchen Sie es erneut.
+pdx-parkingfailed: Das Parken des Anrufs ist fehlgeschlagen.
+pdx-transfer: Vermittlung.
+phonetic/9_p: neuner
+phonetic/a_p: Anton
+phonetic/b_p: Berta
+phonetic/c_p: Cäsar
+phonetic/d_p: Dora
+phonetic/e_p: Emil
+phonetic/f_p: Friedrich
+phonetic/g_p: Gustav
+phonetic/h_p: Heinrich
+phonetic/i_p: Ida
+phonetic/j_p: Julius
+phonetic/k_p: Kaufmann
+phonetic/l_p: Ludwig
+phonetic/m_p: Martha
+phonetic/n_p: Nordpol
+phonetic/o_p: Otto
+phonetic/p_p: Paula
+phonetic/q_p: Quelle
+phonetic/r_p: Richard
+phonetic/s_p: Samuel
+phonetic/t_p: Theodor
+phonetic/u_p: Ulrich
+phonetic/v_p: Viktor
+phonetic/w_p: Wilhelm
+phonetic/x_p: Xanthippe
+phonetic/y_p: Ypsilon
+phonetic/z_p: Zacharias
+please-hold-while-try: Bitte warten Sie, während wir Sie verbinden.
+please-try-again: Bitte versuchen Sie es erneut.
+pls-try-call-later: Bitte rufen Sie später noch einmal an.
+pm-invalid-option: Diese Option ist ungültig. Bitte versuchen Sie es erneut.
+priv-callpending: Ich habe einen wartenden Anrufer, der sich vorstellt als:
+priv-introsaved: Vielen Dank. Bitte warten Sie, während ich versuche, Sie mit Ihrem Gesprächspartner zu verbinden.
+priv-recordintro: Bitte sagen Sie nach dem Tonzeichen Ihren Namen.
+privacy-callee-options: Wählen Sie die Eins, wenn Sie diesen Anrufer jetzt und in Zukunft direkt erreichen möchten. Wählen Sie die Zwei, um diesen Anrufer jetzt und für immer zur Sprachnachricht zu schicken. Wählen Sie die Drei, um diesen Anrufer jetzt und für immer in das Sperrmenü zu leiten. Wählen Sie die Vier, um diesen Anrufer jetzt und für immer in ein höfliches Anrufverbots-Menü zu leiten. Wählen Sie die Fünf, um diesem Anrufer in Zukunft den direkten Durchgang zu erlauben, ihn aber dieses eine Mal zur Sprachnachricht zu schicken.
+privacy-incorrect: Es tut mir leid, diese Nummer ist ungültig.
+privacy-prompt: Bitte geben Sie Ihre Telefonnummer ein, beginnend mit der Vorwahl.
+privacy-thankyou: Vielen Dank.
+privacy-to-blacklist-last-caller: Der letzte Anrufer war...
+privacy-unident: Die gewünschte Person nimmt keine anonymen Anrufe an.
+queue-callswaiting: Wartet darauf, mit einem Mitarbeiter zu sprechen.
+queue-holdtime: Die geschätzte Wartezeit beträgt derzeit
+queue-less-than: weniger als
+queue-minute: Minute
+queue-minutes: Minuten
+queue-periodic-announce: Alle unsere Mitarbeiter sind derzeit beschäftigt. Bitte bleiben Sie in der Leitung, Ihr Anruf wird vom nächsten freien Mitarbeiter entgegengenommen.
+queue-quantity1: Derzeit warten mehr als...
+queue-quantity2: ...Anrufer darauf, mit einem Mitarbeiter zu sprechen.
+queue-reporthold: Wartezeit
+queue-seconds: Sekunden
+queue-thankyou: Vielen Dank für Ihre Geduld.
+queue-thereare: Sie sind derzeit Anrufer Nummer
+queue-youarenext: Ihr Anruf steht nun an erster Stelle in der Warteschlange und wird vom nächsten freien Mitarbeiter entgegengenommen.
+removed: Entfernt.
+screen-callee-option: Sie haben folgende Optionen: Wählen Sie die Eins, wenn Sie sofort mit dem eingehenden Anruf verbunden werden möchten. Wählen Sie die Zwei, wenn Sie diesen Anrufer zur Sprachnachricht schicken möchten. Wählen Sie die Drei, um diesen Anrufer in das Sperrmenü zu leiten. Wählen Sie die Vier, um diesen Anrufer in ein höfliches Anrufverbots-Menü zu leiten.
+second: Sekunde
+seconds: Sekunden
+silence/1: 
+silence/10: 
+silence/2: 
+silence/3: 
+silence/4: 
+silence/5: 
+silence/6: 
+silence/7: 
+silence/8: 
+silence/9: 
+simul-call-limit-reached: Das Limit für gleichzeitige Anrufe wurde erreicht.
+something-terribly-wrong: Es ist etwas ganz und gar Schlimmes passiert!
+sorry-yore-having-problems: Es tut uns leid, dass Sie Probleme haben.
+sorry: Entschuldigung.
+speed-dial-empty: Der Kurzwahleintrag, auf den Sie zugegriffen haben, ist leer.
+speed-dial: Kurzwahl.
+spy-agent: Agent
+spy-console: Konsole
+spy-dahdi: DAHDI
+spy-h323: H.323
+spy-hdot323: H.323
+spy-iax: IAX
+spy-iax2: IAX
+spy-jingle: Jingle
+spy-lokal: Lokal
+spy-mgcp: MGCP
+spy-misdn: M I S D N
+spy-mobile: Bluetooth Mobil
+spy-nbs: N B S
+spy-sip: SIP
+spy-skinny: Skinny
+spy-unistim: Unistim
+spy-usbradio: USB Radio
+spy-zap: Zap
+ss-noservice: Die gewählte Nummer ist nicht in Betrieb. Bitte überprüfen Sie die Nummer und versuchen Sie es erneut.
+telephone-number: Telefonnummer.
+time: Zeit.
+to-call-this-number: Um diese Nummer anzurufen.
+to-extension: Zur Nebenstelle.
+to-listen-to-it: Um sie anzuhören.
+to-rerecord-it: Um sie erneut aufzunehmen.
+transfer: Bitte warten Sie, während ich diese Nebenstelle versuche.
+tt-allbusy: Alle Mitarbeiter des Haushalts unterstützen derzeit andere Telefonverkäufer. Bitte bleiben Sie in der Leitung, Ihr Anruf wird in der Reihenfolge des Eingangs entgegengenommen.
+tt-somethingwrong: Es ist etwas ganz und gar Schlimmes passiert.
+unidentified-no-callback: Unbekannt oder unterdrückt und kann daher nicht zurückgerufen werden.
+uppercase: Großbuchstabe.
+vm-Cust1: Ordner fünf
+vm-Cust2: Ordner sechs
+vm-Cust3: Ordner sieben
+vm-Cust4: Ordner acht
+vm-Cust5: Ordner neun
+vm-INBOX: neue
+vm-advopts: Drücken Sie die Drei für erweiterte Optionen.
+vm-and: und
+vm-calldiffnum: Drücken Sie die Zwei, um eine andere Nummer einzugeben.
+vm-changeto: In welchen Ordner wechseln?
+vm-delete: Drücken Sie die Sieben, um diese Nachricht zu löschen.
+vm-deleted: Nachricht gelöscht.
+vm-dialout: Bitte warten Sie, während ich Ihren Anruf verbinde.
+vm-duration: Diese Nachricht dauert...
+vm-enter-num-to-call: Bitte geben Sie die Nummer ein, die Sie anrufen möchten.
+vm-extension: Nebenstelle
+vm-family: Familie
+vm-first: erste
+vm-first_b: erste
+vm-for: für
+vm-forward-multiple: Drücken Sie die Eins, um diese Nachricht zu senden, oder die Zwei, um einen weiteren Empfänger hinzuzufügen.
+vm-forward: Drücken Sie die Eins, um eine Nebenstelle einzugeben, oder die Zwei, um das Verzeichnis zu verwenden.
+vm-forward_options: Drücken Sie die Eins, um eine Nachricht voranzustellen, oder die Zwei, um die Nachricht ohne Voranstellung weiterzuleiten.
+vm-friends: Freunde
+vm-from-extension: Nachricht von Nebenstelle
+vm-from-phonenumber: Nachricht von der Telefonnummer
+vm-from: von
+vm-goodbye: Auf Wiederhören.
+vm-helpexit: Drücken Sie das Sternchen für Hilfe oder die Raute-Taste, um zu beenden.
+vm-incorrect-mailbox: Anmeldung fehlgeschlagen. Mailbox?
+vm-incorrect: Anmeldung fehlgeschlagen.
+vm-instructions: Um Ihre Nachrichten abzuhören, drücken Sie jetzt die Eins. Sie können die Sprachbox jederzeit verlassen, indem Sie die Raute-Taste drücken.
+vm-intro: Bitte hinterlassen Sie Ihre Nachricht nach dem Tonzeichen. Wenn Sie fertig sind, legen Sie auf oder drücken Sie die Raute-Taste.
+vm-invalid-password: Dieses Passwort erfüllt nicht die Mindestanforderungen für diese Mailbox. Bitte versuchen Sie es erneut.
+vm-invalidpassword: Das ist kein gültiges Passwort. Bitte versuchen Sie es erneut.
+vm-isonphone: telefoniert gerade.
+vm-isunavail: ist nicht erreichbar.
+vm-last: letzte
+vm-leavemsg: Drücken Sie die Fünf, um eine Nachricht zu hinterlassen.
+vm-login: Sprachbox. Mailbox?
+vm-mailboxfull: Es tut uns leid, die Mailbox dieses Benutzers kann keine weiteren Nachrichten annehmen.
+vm-marked-nonurgent: Dringlichkeitsstatus entfernt.
+vm-marked-urgent: Nachricht als dringend markiert.
+vm-message: Nachricht
+vm-messages: Nachrichten
+vm-minutes: Minuten
+vm-mismatch: Die eingegebenen Passwörter stimmen nicht überein. Bitte versuchen Sie es erneut.
+vm-msgforwarded: Ihre Nachricht wurde erfolgreich weitergeleitet.
+vm-msginstruct: Um die nächste Nachricht zu hören, drücken Sie die Sechs. Um diese Nachricht zu wiederholen, drücken Sie die Fünf. Um die vorherige Nachricht zu hören, drücken Sie die Vier. Um diese Nachricht zu löschen oder wiederherzustellen, drücken Sie die Null. Um die Sprachbox zu verlassen, drücken Sie die Raute-Taste.
+vm-msgsaved: Ihre Nachricht wurde gespeichert.
+vm-newpassword: Bitte geben Sie Ihr neues Passwort ein und drücken Sie die Raute-Taste.
+vm-newuser: Willkommen in der Sprachbox. Zuerst werde ich Sie durch eine kurze Einrichtung führen.
+vm-next: Drücken Sie die Sechs, um die nächste Nachricht abzuspielen.
+vm-no: nein
+vm-nobodyavail: Niemand ist im Moment verfügbar, um Ihren Anruf entgegenzunehmen.
+vm-nobox: Sie können auf diese Nachricht nicht antworten, da der Absender keine Mailbox hat.
+vm-nomore: Keine weiteren Nachrichten.
+vm-nonumber: Leider weiß ich nicht, wer diese Nachricht gesendet hat.
+vm-num-i-have: Die mir vorliegende Nummer ist
+vm-old: alte
+vm-onefor-full: Drücken Sie die Eins, um zuzuhören...
+vm-onefor: Drücken Sie die Eins für
+vm-options: Drücken Sie die Eins, um Ihre Nichterreichbar-Ansage aufzunehmen, die Zwei, um Ihre Besetzt-Ansage aufzunehmen, die Drei, um Ihren Namen aufzunehmen, die Vier, um Ihre temporäre Begrüßung aufzunehmen, die Fünf, um Ihr Passwort zu ändern, oder das Sternchen, um zum Hauptmenü zurückzukehren.
+vm-opts-full: Drücken Sie die Zwei, um auf Nachrichten in anderen Ordnern zuzugreifen. Drücken Sie die Drei, um eine Nachricht für eine andere Mailbox aufzunehmen. Drücken Sie die Null für Begrüßungen und Passwortverwaltung.
+vm-opts: Drücken Sie die Zwei, um den Ordner zu wechseln, die Drei für erweiterte Optionen, oder die Null für Mailbox-Optionen.
+vm-passchanged: Ihre Passwörter wurden geändert.
+vm-password: Passwort
+vm-pls-try-again: Bitte versuchen Sie es erneut.
+vm-press: drücken Sie
+vm-prev: Drücken Sie die Vier für die vorherige Nachricht.
+vm-reachoper: Drücken Sie die Null, um eine Vermittlung zu erreichen.
+vm-rec-busy: Sagen Sie nach dem Tonzeichen Ihre Besetzt-Ansage und drücken Sie dann die Raute-Taste.
+vm-rec-name: Sagen Sie nach dem Tonzeichen Ihren Namen und drücken Sie dann die Raute-Taste.
+vm-rec-reenterpassword: Bitte geben Sie Ihr Passwort erneut ein und drücken Sie die Raute-Taste.
+vm-rec-temp: Sagen Sie nach dem Tonzeichen Ihre temporäre Ansage und drücken Sie dann die Raute-Taste.
+vm-rec-unv: Sagen Sie nach dem Tonzeichen Ihre Nichterreichbar-Ansage und drücken Sie dann die Raute-Taste.
+vm-received: empfangen
+vm-record-prepend: Bitte nehmen Sie nach dem Tonzeichen eine Einleitung zur weitergeleiteten Nachricht auf. Wenn Sie fertig sind, drücken Sie die Raute-Taste.
+vm-repeat: Drücken Sie die Fünf, um die aktuelle Nachricht zu wiederholen.
+vm-review-nonurgent: Drücken Sie die Vier, um den Dringlichkeitsstatus dieser Nachricht zu entfernen.
+vm-review-urgent: Drücken Sie die Vier, um diese Nachricht als dringend zu markieren.
+vm-review: Drücken Sie die Eins, um diese Aufnahme zu akzeptieren, die Zwei, um sie anzuhören, oder die Drei, um Ihre Nachricht erneut aufzunehmen.
+vm-saved: gespeichert
+vm-savedto: gespeichert in
+vm-savedto_b: gespeichert in
+vm-savefolder: In welchem Ordner soll ich die Nachricht speichern?
+vm-savemessage: oder die Neun, um diese Nachricht zu speichern.
+vm-saveoper: Drücken Sie die Eins, um diese Aufnahme zu akzeptieren, andernfalls bleiben Sie bitte in der Leitung.
+vm-sorry: Es tut mir leid, ich habe Ihre Antwort nicht verstanden.
+vm-star-cancel: Drücken Sie das Sternchen, um abzubrechen.
+vm-starmain: Drücken Sie das Sternchen, um zum Hauptmenü zurückzukehren.
+vm-tempgreetactive: Ihre temporäre Begrüßung ist derzeit aktiv.
+vm-tempgreeting: Drücken Sie die Eins, um Ihre temporäre Begrüßung aufzunehmen.
+vm-tempgreeting2: Drücken Sie die Eins, um Ihre temporäre Begrüßung aufzunehmen, oder die Zwei, um Ihre temporäre Begrüßung zu löschen.
+vm-tempremoved: Ihre temporäre Begrüßung wurde entfernt.
+vm-then-pound: drücken Sie dann die Raute-Taste
+vm-theperson: Die Person an der Nebenstelle
+vm-tmpexists: Es gibt eine temporäre Begrüßung, die Ihre Standardansagen überschreibt.
+vm-tocallback: Drücken Sie die Zwei, um die Person anzurufen, die diese Nachricht gesendet hat.
+vm-tocallnum: Drücken Sie die Eins, um diese Nummer anzurufen.
+vm-tocancel: oder die Raute-Taste, um abzubrechen.
+vm-tocancelmsg: Drücken Sie das Sternchen, um diese Nachricht abzubrechen.
+vm-toenternumber: Drücken Sie die Eins, um eine Nummer einzugeben.
+vm-toforward: Drücken Sie die Acht, um die Nachricht an einen anderen Benutzer weiterzuleiten.
+vm-tohearenv: Drücken Sie die Drei, um den Nachrichtenkopf zu hören.
+vm-tomakecall: Drücken Sie die Vier, um einen ausgehenden Anruf zu tätigen.
+vm-tooshort: Ihre Nachricht ist zu kurz.
+vm-toreply: Drücken Sie die Eins, um eine Antwort zu senden.
+vm-torerecord: Drücken Sie die Drei, um Ihre Nachricht erneut aufzunehmen.
+vm-undelete: Drücken Sie die Sieben, um diese Nachricht wiederherzustellen.
+vm-undeleted: Nachricht wiederhergestellt.
+vm-unknown-caller: von einem unbekannten Anrufer
+vm-urgent: dringend
+vm-whichbox: Um eine Nachricht zu hinterlassen, geben Sie bitte eine Mailboxnummer ein.
+vm-work: Arbeit
+vm-youhave: Sie haben
+with: mit
+with_b: mit
+you-entered: Sie haben eingegeben.
+your: Ihr.
